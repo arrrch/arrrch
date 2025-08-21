@@ -1,6 +1,6 @@
 ## Hi there 👋
 ![Arrrchs's GitHub stats](https://github-readme-stats.vercel.app/api?username=arrrch&show_icons=true&theme=transparent)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arrrch)](https://github.com/arrrch)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arrrch&langs_count=8)
 <!--
 **arrrch/arrrch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
