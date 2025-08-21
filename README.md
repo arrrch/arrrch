@@ -1,6 +1,5 @@
 ## Hi there 👋
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=arrrch)](https://github.com/arrrch)
-[![My Goal GitHub stats](https://github-readme-stats.vercel.app/api?username=mane)](https://github.com/arrrch)
+![Arrrchs GitHub stats](https://github-readme-stats.vercel.app/api?username=arrrch&show_icons=true&theme=synthwave)
 
 <!--
 **arrrch/arrrch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
