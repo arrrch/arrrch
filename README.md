@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Arrrchs GitHub stats](https://github-readme-stats.vercel.app/api?username=arrrch&show_icons=true&theme=synthwave)
+![Arrrchs's GitHub stats](https://github-readme-stats.vercel.app/api?username=arrrch&show_icons=true&theme=transparent)
 
 <!--
 **arrrch/arrrch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
